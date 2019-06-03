@@ -1,5 +1,5 @@
 # Hello-World
-Hello World Repository
+Hello World Repository to learn using Git.
 
 
 ### Contributions
